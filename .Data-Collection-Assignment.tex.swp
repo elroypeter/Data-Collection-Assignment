@@ -1,0 +1,45 @@
+\documentclass[11pt]{article}
+%Gummi|062|=)
+\title{\textbf{Data Collection Concept Addressing The Decline In Egg Production On Kalule's Poultry Farm }}
+\author{Mukasa Peter\\RegNo.\emph{16/U/670}\\StdNo.216000771}
+\date{}
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+Kalule's poultry farm is located in Kyengera and it started operating in 2010. From records, a decline in egg production has been realized despite the fact that each year the farm has been operating closely with the same number of birds and almost the same food supply.
+\section{Data to be collected}
+Apart from food supply and number of birds on the farm, more data such as the health status(expressed as a percentage of the total number of bird alive at the end of the season over the total deployed at the beginning of the season), electricity, water supplied, which may also cause low egg production has to be collected.
+
+More so from the interviews conducted with the workers on the farm, it has been brought up that ever since the stone qwarry company was established in 2014 in their neighbourhood, they have suffered alot of damage and experienced alot of power shortage.Therefore its of significance to collect the surrounding environment data.
+ 
+
+\subsection{Trend in production}
+Below is a table summarizing data from records collected from 2010 to 2017.
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+Year & Qty Food(kgs) & Health status(\%) & No.of hens(Average) & eggs(trays @ day)  \\ [0.5ex]
+\hline
+2010 & 160 & 85 & 300 & 9 \\ [0.5ex]
+\hline
+2011 & 200 & 78 & 460 & 12 \\ [0.5ex]
+\hline
+2012 & 200 & 82 & 400 & 11 \\ [0.5ex]
+\hline
+2013 & 250 & 75 & 500 & 14 \\ [0.5ex]
+\hline
+2014 & 270 & 80 & 520 & 12 \\ [0.5ex]
+\hline
+2015 & 240 & 70 & 520 & 9 \\ [0.5ex]
+\hline
+2016 & 280 & 65 & 540 & 10 \\ [0.5ex]
+\hline
+2017 & 280 & 58 & 540 & 9\\ [0.5ex]
+\hline
+\end{tabular}
+\end{center}
+
+
+\end{document}
